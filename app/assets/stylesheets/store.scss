@@ -13,10 +13,13 @@
 	        margin-top: 1em; 
 	        border-bottom: 1px dotted #77d; min-height: 100px;
 	        img { 
-	        	width: 80px;
-	        	margin-right: 5px; 
-	        	margin-bottom: 5px; 
+	        	width: 60px;
+	        	margin-bottom: 40px;
+	        	margin-right: 5px;  
 	        	position: absolute;
+	        	border-style: solid;
+    			border-width: 5px;
+    			border-color: #CC9999;
 	        }
 	        h3 {
 	        	font-size: 120%;           font-family: sans-serif; margin-left: 100px; 
